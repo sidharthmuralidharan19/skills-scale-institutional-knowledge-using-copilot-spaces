@@ -278,3 +278,4 @@ Security and Compliance Officers ensure that projects meet security, privacy, an
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Reference these personas when creating project charters, decision matrices, and escalation procedures.
 - Use persona-specific communication patterns to model realistic project interactions.
+- Use persona-specific communication patterns to model realistic project interactions.
